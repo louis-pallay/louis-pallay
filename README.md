@@ -15,7 +15,7 @@
 ### 🚀 Mes Projets Récents
 *Ici, tu pourras mettre des liens vers tes dépôts au fur et à mesure :*
 - 📂 **[Agrégateur RSS & Générateur HTML](lien-vers-ton-depot)** : Un outil en Python développé pour centraliser et mettre en page des flux d'actualités.
-- 📂 **[Nivellement Assisté IoT](lien-vers-ton-depot)** : Script embarqué sur M5Stack Core2 pour l'aide au positionnement et à l'orientation.
+- 📂 **[Nivellement Assisté IoT](lien-vers-ton-depot)** : Script embarqué sur M5Stack Grey pour l'aide au positionnement et à l'orientation.
 
 ---
 
