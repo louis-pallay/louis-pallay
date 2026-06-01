@@ -20,5 +20,5 @@
 ---
 
 ### 📫 Me contacter
-- 💼 LinkedIn : [Ton lien LinkedIn]
+- 💼 LinkedIn : https://www.linkedin.com/in/louis-pallay-5bb3ab413/
 - 📧 Email : louispallay@gmail.com
