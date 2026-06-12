@@ -8,7 +8,7 @@
 
 - **Réseaux & Sécurité :** Architecture Cisco (CCNA), Routage, Firewalls (pfSense), VPN (OpenVPN)
 - **Développement & Scripting :** Python, C++, MATLAB, SQL, JavaScript (HTML/CSS)
-- **Systèmes & IoT :** Linux, Automatisation, Systèmes embarqués (M5Stack Core2)
+- **Systèmes & IoT :** Linux, Automatisation, Systèmes embarqués (M5Stack grey)
 
 ---
 
